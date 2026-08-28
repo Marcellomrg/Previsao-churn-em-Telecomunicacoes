@@ -1,0 +1,10 @@
+# data
+*.csv
+*.png
+# Nootbook python
+*.ipynb
+
+*.db
+*.png
+mlartifacts
+.vscode
