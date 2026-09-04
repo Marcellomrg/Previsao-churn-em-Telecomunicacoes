@@ -3,9 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn import model_selection,ensemble,pipeline,metrics,preprocessing
 from feature_engine import imputation,encoding,selection
-import mlflow
-mlflow.set_tracking_uri("http://localhost:5000")
-mlflow.set_experiment(experiment_name="churn")
 pd.set_option('display.max_rows', 200)
 # %%
 # SEMMA - SAMPLE
@@ -174,54 +171,3 @@ grid = model_selection.GridSearchCV(model
                                     ,cv=3)
 grid
 # %%
-with mlflow.start_run():
-
-    mlflow.sklearn.autolog()
-
-    model_pipeline = pipeline.Pipeline(steps=[
-        ("Remoção das features:",drop_features),
-        ("Classificação TOP_PACK",top_pack_transformer),
-        ("Imputação features categoricas",cat_nulos),
-        ("Imputaçâo features numericas",imputation_0),
-        ("Onehot Encoding",onehot),
-        ("Algoritmo",grid)
-    ])
-    model_pipeline.fit(X_train,y_train)
-
-    # SEMMA - ASSES
-
-    y_pred_train = model_pipeline.predict(X_train)
-    y_proba_train = model_pipeline.predict_proba(X_train)[:,1]
-
-    y_pred_test = model_pipeline.predict(X_test)
-    y_proba_test = model_pipeline.predict_proba(X_test)[:,1]
-
-    acc_train = metrics.accuracy_score(y_train,y_pred_train)
-    auc_train = metrics.roc_auc_score(y_train,y_proba_train)
-
-    acc_test = metrics.accuracy_score(y_test,y_pred_test)
-    auc_test = metrics.roc_auc_score(y_test,y_proba_test)
-
-    mlflow.log_metrics({
-        "acc_train":acc_train,
-        "auc_train":auc_train,
-        "acc_test":acc_test,
-        "auc_test":auc_test,
-    })
-    roc_train = metrics.roc_curve(y_train,y_proba_train)
-    roc_test = metrics.roc_curve(y_test,y_proba_test)
-
-    plt.figure(figsize=(10,4))
-    plt.plot(roc_train[0],roc_train[1])
-    plt.plot(roc_test[0],roc_test[1])
-    plt.xlabel("1 - Especificidade")
-    plt.ylabel("Recall")
-    plt.title("Curva ROC")
-    plt.grid(True)
-    plt.legend(f"AUC Treino: {auc_train:.4f}",
-               f"AUC Teste: {acc_test:.4f}",
-                )
-    plt.savefig("curva_roc.png")
-    mlflow.log_artifact("curva_roc.png")
-
-
