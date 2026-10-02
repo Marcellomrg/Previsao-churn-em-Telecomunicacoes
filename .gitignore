@@ -8,3 +8,6 @@
 *.png
 mlartifacts
 .vscode
+artifacts/nature/
+mlruns/
+_pycache__
