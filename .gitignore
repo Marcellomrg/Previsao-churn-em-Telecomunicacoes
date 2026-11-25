@@ -9,5 +9,21 @@
 mlartifacts
 .vscode
 artifacts/nature/
+artifacts/codex/
+__pycache__/
 mlruns/
 _pycache__
+data/enem/
+/.arquivo-local/
+
+# Dados de origem e execuções locais
+/data/*
+!/data/.gitkeep
+/tmp/
+/.chart-data-*/
+/output/*
+/artifacts/*
+*.db-wal
+*.db-shm
+*.db-journal
+/.venv/

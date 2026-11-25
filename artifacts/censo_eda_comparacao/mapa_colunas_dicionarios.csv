@@ -1,0 +1,1038 @@
+coluna,origem_2025,situacao,descricao_2024,descricao_2025,categorias_2024,categorias_2025
+NU_ANO_CENSO,Escola,Descrição e categorias idênticas,Ano do Censo,Ano do Censo,,
+NO_REGIAO,Escola,Descrição e categorias idênticas,Nome da Região Geográfica,Nome da Região Geográfica,,
+CO_REGIAO,Escola,Descrição e categorias idênticas,Código da Região Geográfica,Código da Região Geográfica,,
+NO_UF,Escola,Descrição e categorias idênticas,Nome da Unidade da Federação,Nome da Unidade da Federação,,
+SG_UF,Escola,Descrição e categorias idênticas,Sigla da Unidade da Federação,Sigla da Unidade da Federação,,
+CO_UF,Escola,Descrição e categorias idênticas,Código da Unidade da Federação,Código da Unidade da Federação,,
+NO_MUNICIPIO,Escola,Descrição e categorias idênticas,Nome do Município,Nome do Município,,
+CO_MUNICIPIO,Escola,Descrição e categorias idênticas,Código do Município,Código do Município,,
+NO_REGIAO_GEOG_INTERM,Escola,Descrição e categorias idênticas,Nome da Região Geográfica Intermediária,Nome da Região Geográfica Intermediária,,
+CO_REGIAO_GEOG_INTERM,Escola,Descrição e categorias idênticas,Código da Região Geográfica Intermediária,Código da Região Geográfica Intermediária,,
+NO_REGIAO_GEOG_IMED,Escola,Descrição e categorias idênticas,Nome da Região Geográfica Imediata,Nome da Região Geográfica Imediata,,
+CO_REGIAO_GEOG_IMED,Escola,Descrição e categorias idênticas,Código da Região Geográfica Imediata,Código da Região Geográfica Imediata,,
+NO_MESORREGIAO,,Sem coluna homônima em 2025,Nome da Mesorregião,,,
+CO_MESORREGIAO,,Sem coluna homônima em 2025,Código da Mesorregião,,,
+NO_MICRORREGIAO,,Sem coluna homônima em 2025,Nome da Microrregião,,,
+CO_MICRORREGIAO,,Sem coluna homônima em 2025,Código da Microrregião,,,
+NO_DISTRITO,Escola,Descrição e categorias idênticas,Divisão Intramunicipal - Nome do Distrito,Divisão Intramunicipal - Nome do Distrito,,
+CO_DISTRITO,Escola,Descrição e categorias idênticas,Divisão Intramunicipal - Código do Distrito,Divisão Intramunicipal - Código do Distrito,,
+NO_ENTIDADE,Escola,Descrição e categorias idênticas,Nome da Escola,Nome da Escola,,
+CO_ENTIDADE,Escola,Descrição e categorias idênticas,Código da Escola,Código da Escola,,
+TP_DEPENDENCIA,Escola,Descrição e categorias idênticas,Dependência Administrativa,Dependência Administrativa,"1 - Federal
+2 - Estadual
+3 - Municipal
+4 - Privada","1 - Federal
+2 - Estadual
+3 - Municipal
+4 - Privada"
+TP_CATEGORIA_ESCOLA_PRIVADA,Escola,Descrição e categorias idênticas,Categoria da escola privada,Categoria da escola privada,"1 - Particular
+2 - Comunitária
+3 - Confessional
+4 - Filantrópica
+   - Não aplicável para escolas públicas","1 - Particular
+2 - Comunitária
+3 - Confessional
+4 - Filantrópica
+   - Não aplicável para escolas públicas"
+TP_LOCALIZACAO,Escola,Descrição e categorias idênticas,Localização,Localização,"1 - Urbana
+2 - Rural","1 - Urbana
+2 - Rural"
+TP_LOCALIZACAO_DIFERENCIADA,Escola,Descrição e categorias idênticas,Localização diferenciada da escola,Localização diferenciada da escola,"0 - A escola não está em área de localização diferenciada
+1 - Área de assentamento
+2 - Terra indígena
+3 - Comunidade quilombola
+8 - Área onde se localizam povos e comunidades tradicionais","0 - A escola não está em área de localização diferenciada
+1 - Área de assentamento
+2 - Terra indígena
+3 - Comunidade quilombola
+8 - Área onde se localizam povos e comunidades tradicionais"
+DS_ENDERECO,,Sem coluna homônima em 2025,Endereço,,,
+NU_ENDERECO,,Sem coluna homônima em 2025,Número,,,
+DS_COMPLEMENTO,,Sem coluna homônima em 2025,Complemento,,,
+NO_BAIRRO,,Sem coluna homônima em 2025,Bairro,,,
+CO_CEP,,Sem coluna homônima em 2025,CEP,,,
+NU_DDD,,Sem coluna homônima em 2025,DDD,,,
+NU_TELEFONE,,Sem coluna homônima em 2025,Telefone,,,
+TP_SITUACAO_FUNCIONAMENTO,Escola,Descrição e categorias idênticas,Situação de funcionamento,Situação de funcionamento,"1 - Em Atividade
+2 - Paralisada
+3 - Extinta (ano do Censo)
+4 - Extinta em Anos Anteriores","1 - Em Atividade
+2 - Paralisada
+3 - Extinta (ano do Censo)
+4 - Extinta em Anos Anteriores"
+CO_ORGAO_REGIONAL,Escola,Descrição e categorias idênticas,Código do Órgão Regional de Ensino,Código do Órgão Regional de Ensino,,
+DT_ANO_LETIVO_INICIO,Escola,Descrição e categorias idênticas,Início do ano letivo,Início do ano letivo,,
+DT_ANO_LETIVO_TERMINO,Escola,Descrição e categorias idênticas,Término (previsão) do ano letivo,Término (previsão) do ano letivo,,
+IN_VINCULO_SECRETARIA_EDUCACAO,Escola,Descrição e categorias idênticas,Órgão ao qual a escola pública está vinculada - Secretaria de Educação/Ministério da Educação,Órgão ao qual a escola pública está vinculada - Secretaria de Educação/Ministério da Educação,"0 - Não
+1 - Sim
+   - Não aplicável para escolas privadas","0 - Não
+1 - Sim
+   - Não aplicável para escolas privadas"
+IN_VINCULO_SEGURANCA_PUBLICA,Escola,Descrição e categorias idênticas,Órgão ao qual a escola pública está vinculada - Secretaria de Segurança Pública/Forças Armadas/Militar,Órgão ao qual a escola pública está vinculada - Secretaria de Segurança Pública/Forças Armadas/Militar,"0 - Não
+1 - Sim
+   - Não aplicável para escolas privadas","0 - Não
+1 - Sim
+   - Não aplicável para escolas privadas"
+IN_VINCULO_SECRETARIA_SAUDE,Escola,Descrição e categorias idênticas,Órgão ao qual a escola pública está vinculada - Secretaria de Saúde/Ministério da Saúde,Órgão ao qual a escola pública está vinculada - Secretaria de Saúde/Ministério da Saúde,"0 - Não
+1 - Sim
+   - Não aplicável para escolas privadas","0 - Não
+1 - Sim
+   - Não aplicável para escolas privadas"
+IN_VINCULO_OUTRO_ORGAO,Escola,Descrição e categorias idênticas,Órgão ao qual a escola pública está vinculada - Outro órgão da administração pública,Órgão ao qual a escola pública está vinculada - Outro órgão da administração pública,"0 - Não
+1 - Sim
+   - Não aplicável para escolas privadas","0 - Não
+1 - Sim
+   - Não aplicável para escolas privadas"
+IN_PODER_PUBLICO_PARCERIA,Escola,Descrição e categorias idênticas,"Parceria ou convênio com o poder público (parceria ou convênio firmado entre a Administração Pública e instituições privadas ou instituições públicas de ensino, autarquias e fundações da administração indireta e demais instituições de educação profissional técnica de nível médio dos serviços sociais autônomos que integram o sistema federal de ensino, para financiamento do atendimento educacional ou para a oferta do itinerário de formação técnica e profissional do ensino médio)","Parceria ou convênio com o poder público (parceria ou convênio firmado entre a Administração Pública e instituições privadas ou instituições públicas de ensino, autarquias e fundações da administração indireta e demais instituições de educação profissional técnica de nível médio dos serviços sociais autônomos que integram o sistema federal de ensino, para financiamento do atendimento educacional ou para a oferta do itinerário de formação técnica e profissional do ensino médio)","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+TP_PODER_PUBLICO_PARCERIA,Escola,Descrição e categorias idênticas,Poder público responsável pela parceria ou convênio entre a Administração Pública e outras instituições,Poder público responsável pela parceria ou convênio entre a Administração Pública e outras instituições,"1 - Municipal
+2 - Estadual
+3 - Estadual e Municipal
+   - Não aplicável  para escolas sem parceria ou convênio com o poder público","1 - Municipal
+2 - Estadual
+3 - Estadual e Municipal
+   - Não aplicável  para escolas sem parceria ou convênio com o poder público"
+IN_FORMA_CONT_TERMO_COLABORA,Escola,Descrição e categorias idênticas,Forma de contratação entre a Administração Pública e outras instituições - Termo de colaboração (Lei nº 13.019/2014),Forma de contratação entre a Administração Pública e outras instituições - Termo de colaboração (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio"
+IN_FORMA_CONT_TERMO_FOMENTO,Escola,Descrição e categorias idênticas,Forma de contratação entre a Administração Pública e outras instituições - Termo de fomento (Lei nº 13.019/2014),Forma de contratação entre a Administração Pública e outras instituições - Termo de fomento (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio"
+IN_FORMA_CONT_ACORDO_COOP,Escola,Descrição e categorias idênticas,Forma de contratação entre a Administração Pública e outras instituições - Acordo de cooperação (Lei nº 13.019/2014),Forma de contratação entre a Administração Pública e outras instituições - Acordo de cooperação (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio"
+IN_FORMA_CONT_PRESTACAO_SERV,Escola,Descrição e categorias idênticas,Forma de contratação entre a Administração Pública e outras instituições - Contrato de prestação de serviço,Forma de contratação entre a Administração Pública e outras instituições - Contrato de prestação de serviço,"0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio"
+IN_FORMA_CONT_COOP_TEC_FIN,Escola,Descrição e categorias idênticas,Forma de contratação entre a Administração Pública e outras instituições - Termo de cooperação técnica e financeira,Forma de contratação entre a Administração Pública e outras instituições - Termo de cooperação técnica e financeira,"0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio"
+IN_FORMA_CONT_CONSORCIO_PUB,Escola,Descrição e categorias idênticas,Forma de contratação entre a Administração Pública e outras instituições - Contrato de consórcio público/Convênio de cooperação,Forma de contratação entre a Administração Pública e outras instituições - Contrato de consórcio público/Convênio de cooperação,"0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para escolas sem parceria/convênio"
+IN_FORMA_CONT_MU_TERMO_COLAB,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Termo de colaboração (Lei nº 13.019/2014),Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Termo de colaboração (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_MU_TERMO_FOMENTO,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Termo de fomento (Lei nº 13.019/2014),Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Termo de fomento (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_MU_ACORDO_COOP,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Acordo de cooperação (Lei nº 13.019/2014),Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Acordo de cooperação (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_MU_PREST_SERV,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Contrato de prestação de serviço,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Contrato de prestação de serviço,"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_MU_COOP_TEC_FIN,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Termo de cooperação técnica e financeira,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Termo de cooperação técnica e financeira,"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_MU_CONSORCIO_PUB,Escola,Descrição e categorias idênticas,"Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Contrato de consórcio público/Convênio de
+cooperação","Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria municipal de educação - Contrato de consórcio público/Convênio de
+cooperação","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_ES_TERMO_COLAB,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Termo de colaboração (Lei nº 13.019/2014),Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Termo de colaboração (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_ES_TERMO_FOMENTO,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Termo de fomento (Lei nº 13.019/2014),Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Termo de fomento (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_ES_ACORDO_COOP,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Acordo de cooperação (Lei nº 13.019/2014),Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Acordo de cooperação (Lei nº 13.019/2014),"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_ES_PREST_SERV,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Contrato de prestação de serviço,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Contrato de prestação de serviço,"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_ES_COOP_TEC_FIN,Escola,Descrição e categorias idênticas,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Termo de cooperação técnica e financeira,Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Termo de cooperação técnica e financeira,"0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_FORMA_CONT_ES_CONSORCIO_PUB,Escola,Descrição e categorias idênticas,"Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Contrato de consórcio público/Convênio de
+cooperação","Forma(s) de contratação da parceria ou convênio entre a escola e a Secretaria estadual de educação - Contrato de consórcio público/Convênio de
+cooperação","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio","0 - Não
+1 - Sim
+   - Não aplicável para sem parceria/convênio"
+IN_MANT_ESCOLA_PRIVADA_EMP,Escola,Descrição e categorias idênticas,Mantenedora da escola privada - Empresa ou grupo empresarial do setor privado ou pessoa física,Mantenedora da escola privada - Empresa ou grupo empresarial do setor privado ou pessoa física,"0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas"
+IN_MANT_ESCOLA_PRIVADA_ONG,Escola,Descrição e categorias idênticas,Mantenedora da escola privada - Organização Não Governamental (ONG) - internacional ou nacional,Mantenedora da escola privada - Organização Não Governamental (ONG) - internacional ou nacional,"0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas"
+IN_MANT_ESCOLA_PRIVADA_OSCIP,Escola,Descrição e categorias idênticas,Mantenedora da escola privada - Organização da Sociedade Civil de Interesse Público (Oscip),Mantenedora da escola privada - Organização da Sociedade Civil de Interesse Público (Oscip),"0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas"
+IN_MANT_ESCOLA_PRIV_ONG_OSCIP,Escola,Descrição e categorias idênticas,"Mantenedora da escola privada - Organização Não Governamental (ONG) - internacional ou nacional.
+Organização da Sociedade Civil de Interesse Público (Oscip)","Mantenedora da escola privada - Organização Não Governamental (ONG) - internacional ou nacional.
+Organização da Sociedade Civil de Interesse Público (Oscip)","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas"
+IN_MANT_ESCOLA_PRIVADA_SIND,Escola,Descrição e categorias idênticas,"Mantenedora da escola privada - Sindicatos de trabalhadores ou patronais, associações e cooperativas","Mantenedora da escola privada - Sindicatos de trabalhadores ou patronais, associações e cooperativas","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas"
+IN_MANT_ESCOLA_PRIVADA_SIST_S,Escola,Descrição e categorias idênticas,"Mantenedora da escola privada - Sistema S (Sesi, Senai, Sesc, outros)","Mantenedora da escola privada - Sistema S (Sesi, Senai, Sesc, outros)","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas"
+IN_MANT_ESCOLA_PRIVADA_S_FINS,Escola,Descrição e categorias idênticas,Mantenedora da escola privada - Instituições sem fins lucrativos,Mantenedora da escola privada - Instituições sem fins lucrativos,"0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas","0 - Não
+1 - Sim
+   - Não aplicável para escolas públicas"
+NU_CNPJ_ESCOLA_PRIVADA,Escola,Descrição e categorias idênticas,Número do CNPJ da escola privada,Número do CNPJ da escola privada,"99999999999999 - Sem declaração
+                                  - Não aplicável para escolas públicas","99999999999999 - Sem declaração
+                                  - Não aplicável para escolas públicas"
+NU_CNPJ_MANTENEDORA,Escola,Descrição e categorias idênticas,Número do CNPJ da mantenedora principal da escola privada,Número do CNPJ da mantenedora principal da escola privada,"99999999999999 - Sem declaração
+                                  - Não aplicável para escolas públicas","99999999999999 - Sem declaração
+                                  - Não aplicável para escolas públicas"
+TP_REGULAMENTACAO,Escola,Descrição e categorias idênticas,"Regulamentação/Autorização no conselho ou órgão municipal, estadual ou federal de educação","Regulamentação/Autorização no conselho ou órgão municipal, estadual ou federal de educação","0 - Não
+1 - Sim
+2 - Em tramitação","0 - Não
+1 - Sim
+2 - Em tramitação"
+TP_RESPONSAVEL_REGULAMENTACAO,Escola,Descrição e categorias idênticas,Esfera administrativa do conselho ou órgão responsável pela Regulamentação/Autorização,Esfera administrativa do conselho ou órgão responsável pela Regulamentação/Autorização,"1 - Federal
+2 - Estadual
+3 - Municipal
+4 - Estadual e Municipal
+5 - Federal e Estadual
+6 - Federal, Estadual e Municipal
+9 - Não informado
+   - Não aplicável para escolas sem regulamentação","1 - Federal
+2 - Estadual
+3 - Municipal
+4 - Estadual e Municipal
+5 - Federal e Estadual
+6 - Federal, Estadual e Municipal
+9 - Não informado
+   - Não aplicável para escolas sem regulamentação"
+CO_ESCOLA_SEDE_VINCULADA,Escola,Descrição e categorias idênticas,Código da escola sede,Código da escola sede,- Não aplicável para escolas que não possuem vínculo,- Não aplicável para escolas que não possuem vínculo
+CO_IES_OFERTANTE,Escola,Descrição e categorias idênticas,Código da IES vinculada à escola,Código da IES vinculada à escola,- Não aplicável para escolas que não possuem vínculo,- Não aplicável para escolas que não possuem vínculo
+IN_LOCAL_FUNC_PREDIO_ESCOLAR,Escola,Descrição e categorias idênticas,Local de funcionamento da escola - Prédio Escolar,Local de funcionamento da escola - Prédio Escolar,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+TP_OCUPACAO_PREDIO_ESCOLAR,Escola,Descrição e categorias idênticas,Forma de ocupação do Prédio escolar,Forma de ocupação do Prédio escolar,"1 - Próprio
+2 - Alugado
+3 - Cedido
+   - Não aplicável para escolas que não ocupam prédio 
+     escolar","1 - Próprio
+2 - Alugado
+3 - Cedido
+   - Não aplicável para escolas que não ocupam prédio 
+     escolar"
+IN_LOCAL_FUNC_SOCIOEDUCATIVO,Escola,Descrição e categorias idênticas,Local de funcionamento da escola - Unidade de Atendimento socioeducativo,Local de funcionamento da escola - Unidade de Atendimento socioeducativo,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LOCAL_FUNC_UNID_PRISIONAL,Escola,Descrição e categorias idênticas,Local de funcionamento da escola - Unidade Prisional,Local de funcionamento da escola - Unidade Prisional,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LOCAL_FUNC_PRISIONAL_SOCIO,Escola,Descrição e categorias idênticas,Local de funcionamento da escola - Unidade Prisional ou Unidade de atendimento socioeducativo,Local de funcionamento da escola - Unidade Prisional ou Unidade de atendimento socioeducativo,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LOCAL_FUNC_GALPAO,Escola,Descrição e categorias idênticas,Local de funcionamento da escola - Galpão/Rancho/Paiol/Barracão,Local de funcionamento da escola - Galpão/Rancho/Paiol/Barracão,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+TP_OCUPACAO_GALPAO,Escola,Descrição e categorias idênticas,Forma de ocupação do Galpão/Rancho/Paiol/Barracão,Forma de ocupação do Galpão/Rancho/Paiol/Barracão,"1 - Próprio
+2 - Alugado
+3 - Cedido
+9 - Não informado
+   - Não aplicável para escolas que não ocupam
+     Galpão/Rancho/Paiol/Barracão","1 - Próprio
+2 - Alugado
+3 - Cedido
+9 - Não informado
+   - Não aplicável para escolas que não ocupam
+     Galpão/Rancho/Paiol/Barracão"
+IN_LOCAL_FUNC_SALAS_OUTRA_ESC,Escola,Descrição e categorias idênticas,Local de funcionamento da escola - Salas em outra escola,Local de funcionamento da escola - Salas em outra escola,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LOCAL_FUNC_OUTROS,Escola,Descrição e categorias idênticas,Local de funcionamento da escola - Outros,Local de funcionamento da escola - Outros,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_PREDIO_COMPARTILHADO,Escola,Descrição e categorias idênticas,Prédio compartilhado com outra escola,Prédio compartilhado com outra escola,"0 - Não
+1 - Sim
+   - Não aplicável para escolas que não ocupam prédio 
+     escolar","0 - Não
+1 - Sim
+   - Não aplicável para escolas que não ocupam prédio 
+     escolar"
+IN_AGUA_POTAVEL,Escola,Descrição e categorias idênticas,Fornece água potável para o consumo humano,Fornece água potável para o consumo humano,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AGUA_REDE_PUBLICA,Escola,Descrição e categorias idênticas,Abastecimento de água - Rede pública,Abastecimento de água - Rede pública,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AGUA_POCO_ARTESIANO,Escola,Descrição e categorias idênticas,Abastecimento de água - Poço artesiano,Abastecimento de água - Poço artesiano,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AGUA_CACIMBA,Escola,Descrição e categorias idênticas,Abastecimento de água - Cacimba/Cisterna/Poço,Abastecimento de água - Cacimba/Cisterna/Poço,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AGUA_FONTE_RIO,Escola,Descrição e categorias idênticas,Abastecimento de água - Fonte/Rio/Igarapé/Riacho/Córrego,Abastecimento de água - Fonte/Rio/Igarapé/Riacho/Córrego,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AGUA_INEXISTENTE,Escola,Descrição e categorias idênticas,Abastecimento de água - Não há abastecimento de água,Abastecimento de água - Não há abastecimento de água,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AGUA_CARRO_PIPA,Escola,Descrição e categorias idênticas,Abastecimento de água - Carro-pipa,Abastecimento de água - Carro-pipa,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ENERGIA_REDE_PUBLICA,Escola,Descrição e categorias idênticas,Abastecimento de energia elétrica - Rede pública,Abastecimento de energia elétrica - Rede pública,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ENERGIA_GERADOR_FOSSIL,Escola,Descrição e categorias idênticas,Abastecimento de energia elétrica - Gerador movido a combustível fóssil,Abastecimento de energia elétrica - Gerador movido a combustível fóssil,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ENERGIA_RENOVAVEL,Escola,Descrição e categorias idênticas,"Abastecimento de energia elétrica - Fontes de energia renováveis ou alternativas (gerador a biocombustível e/ou biodigestores, eólica, solar, outras)","Abastecimento de energia elétrica - Fontes de energia renováveis ou alternativas (gerador a biocombustível e/ou biodigestores, eólica, solar, outras)","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ENERGIA_INEXISTENTE,Escola,Descrição e categorias idênticas,Abastecimento de energia elétrica - Não há energia elétrica,Abastecimento de energia elétrica - Não há energia elétrica,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ESGOTO_REDE_PUBLICA,Escola,Descrição e categorias idênticas,Esgoto sanitário - Rede pública,Esgoto sanitário - Rede pública,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ESGOTO_FOSSA_SEPTICA,Escola,Descrição e categorias idênticas,Esgoto sanitário - Fossa Séptica,Esgoto sanitário - Fossa Séptica,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ESGOTO_FOSSA_COMUM,Escola,Descrição e categorias idênticas,Esgoto sanitário - Fossa rudimentar/comum,Esgoto sanitário - Fossa rudimentar/comum,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ESGOTO_FOSSA,Escola,Descrição e categorias idênticas,Esgoto sanitário - Fossa,Esgoto sanitário - Fossa,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ESGOTO_INEXISTENTE,Escola,Descrição e categorias idênticas,Esgoto sanitário - Não há esgotamento sanitário,Esgoto sanitário - Não há esgotamento sanitário,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LIXO_SERVICO_COLETA,Escola,Descrição e categorias idênticas,Destinação do lixo - Serviço de coleta,Destinação do lixo - Serviço de coleta,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LIXO_QUEIMA,Escola,Descrição e categorias idênticas,Destinação do lixo - Queima,Destinação do lixo - Queima,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LIXO_ENTERRA,Escola,Descrição e categorias idênticas,Destinação do lixo - Enterra,Destinação do lixo - Enterra,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LIXO_DESTINO_FINAL_PUBLICO,Escola,Descrição e categorias idênticas,Destinação do lixo - Leva a uma destinação final financiada pelo poder público,Destinação do lixo - Leva a uma destinação final financiada pelo poder público,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LIXO_DESCARTA_OUTRA_AREA,Escola,Descrição e categorias idênticas,Destinação do lixo - Descarta em outra área,Destinação do lixo - Descarta em outra área,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_TRATAMENTO_LIXO_SEPARACAO,Escola,Descrição e categorias idênticas,Tratamento do lixo/resíduos que a escola realiza - Separação do lixo/resíduos,Tratamento do lixo/resíduos que a escola realiza - Separação do lixo/resíduos,"0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_TRATAMENTO_LIXO_REUTILIZA,Escola,Descrição e categorias idênticas,Tratamento do lixo/resíduos que a escola realiza - Reaproveitamento/reutilização,Tratamento do lixo/resíduos que a escola realiza - Reaproveitamento/reutilização,"0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_TRATAMENTO_LIXO_RECICLAGEM,Escola,Descrição e categorias idênticas,Tratamento do lixo/resíduos que a escola realiza - Reciclagem,Tratamento do lixo/resíduos que a escola realiza - Reciclagem,"0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_TRATAMENTO_LIXO_INEXISTENTE,Escola,Descrição e categorias idênticas,Tratamento do lixo/resíduos que a escola realiza - Não faz tratamento,Tratamento do lixo/resíduos que a escola realiza - Não faz tratamento,"0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_ALMOXARIFADO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Almoxarifado,Dependências físicas existentes e utilizadas na escola - Almoxarifado,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AREA_VERDE,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Área de vegetação ou gramado,Dependências físicas existentes e utilizadas na escola - Área de vegetação ou gramado,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AREA_PLANTIO,Escola,Texto do dicionário difere: revisar,"Dependências físicas existentes e utilizadas na escola - Área de horta, plantio e/ou produção agricola","Dependências físicas existentes e utilizadas na escola - Área de horta, plantio e/ou produção agrícola","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_AUDITORIO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Auditório,Dependências físicas existentes e utilizadas na escola - Auditório,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_BANHEIRO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Banheiro,Dependências físicas existentes e utilizadas na escola - Banheiro,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_BANHEIRO_EI,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Banheiro adequado à educação infantil,Dependências físicas existentes e utilizadas na escola - Banheiro adequado à educação infantil,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_BANHEIRO_PNE,Escola,Descrição e categorias idênticas,"Dependências físicas existentes e utilizadas na escola - Banheiro acessível, adequado ao uso de pessoas com deficiência ou mobilidade reduzida","Dependências físicas existentes e utilizadas na escola - Banheiro acessível, adequado ao uso de pessoas com deficiência ou mobilidade reduzida","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_BANHEIRO_FUNCIONARIOS,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Banheiro exclusivo para os funcionários,Dependências físicas existentes e utilizadas na escola - Banheiro exclusivo para os funcionários,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_BANHEIRO_CHUVEIRO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Banheiro ou vestiário com chuveiro,Dependências físicas existentes e utilizadas na escola - Banheiro ou vestiário com chuveiro,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_BIBLIOTECA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Biblioteca,Dependências físicas existentes e utilizadas na escola - Biblioteca,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_BIBLIOTECA_SALA_LEITURA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_COZINHA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Cozinha,Dependências físicas existentes e utilizadas na escola - Cozinha,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_DESPENSA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Despensa,Dependências físicas existentes e utilizadas na escola - Despensa,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_DORMITORIO_ALUNO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Dormitório de aluno(a),Dependências físicas existentes e utilizadas na escola - Dormitório de aluno(a),"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_DORMITORIO_PROFESSOR,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Dormitório de professor(a),Dependências físicas existentes e utilizadas na escola - Dormitório de professor(a),"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LABORATORIO_CIENCIAS,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LABORATORIO_INFORMATICA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Laboratório de informática,Dependências físicas existentes e utilizadas na escola - Laboratório de informática,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_LABORATORIO_EDUC_PROF,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Laboratório específico para a Educação Profissional,Dependências físicas existentes e utilizadas na escola - Laboratório específico para a Educação Profissional,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_PATIO_COBERTO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Pátio coberto,Dependências físicas existentes e utilizadas na escola - Pátio coberto,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_PATIO_DESCOBERTO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Pátio descoberto,Dependências físicas existentes e utilizadas na escola - Pátio descoberto,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_PARQUE_INFANTIL,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Parque infantil,Dependências físicas existentes e utilizadas na escola - Parque infantil,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_PISCINA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Piscina,Dependências físicas existentes e utilizadas na escola - Piscina,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_QUADRA_ESPORTES,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_QUADRA_ESPORTES_COBERTA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_QUADRA_ESPORTES_DESCOBERTA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Quadra de esportes descoberta,Dependências físicas existentes e utilizadas na escola - Quadra de esportes descoberta,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_REFEITORIO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Refeitório,Dependências físicas existentes e utilizadas na escola - Refeitório,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_ATELIE_ARTES,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Sala/ateliê de artes,Dependências físicas existentes e utilizadas na escola - Sala/ateliê de artes,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_MUSICA_CORAL,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola -  Sala de música/coral,Dependências físicas existentes e utilizadas na escola -  Sala de música/coral,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_ESTUDIO_DANCA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Sala/estúdio de dança,Dependências físicas existentes e utilizadas na escola - Sala/estúdio de dança,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_MULTIUSO,Escola,Descrição e categorias idênticas,"Dependências físicas existentes e utilizadas na escola - Sala multiuso (música, dança e artes)","Dependências físicas existentes e utilizadas na escola - Sala multiuso (música, dança e artes)","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_ESTUDIO_GRAVACAO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Estúdio de gravação e edição,Dependências físicas existentes e utilizadas na escola - Estúdio de gravação e edição,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_OFICINAS_EDUC_PROF,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Salas de oficinas da Educação Profissional,Dependências físicas existentes e utilizadas na escola - Salas de oficinas da Educação Profissional,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_DIRETORIA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Sala de Diretoria,Dependências físicas existentes e utilizadas na escola - Sala de Diretoria,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_LEITURA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Sala de leitura,Dependências físicas existentes e utilizadas na escola - Sala de leitura,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_PROFESSOR,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Sala de professores,Dependências físicas existentes e utilizadas na escola - Sala de professores,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_REPOUSO_ALUNO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Sala de repouso para aluno(a),Dependências físicas existentes e utilizadas na escola - Sala de repouso para aluno(a),"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SECRETARIA,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Sala de Secretaria,Dependências físicas existentes e utilizadas na escola - Sala de Secretaria,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_SALA_ATENDIMENTO_ESPECIAL,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola - Sala de Recursos Multifuncionais para Atendimento Educacional Especializado (AEE),Dependências físicas existentes e utilizadas na escola - Sala de Recursos Multifuncionais para Atendimento Educacional Especializado (AEE),"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_TERREIRAO,Escola,Descrição e categorias idênticas,"Dependências físicas existentes e utilizadas na escola - Terreirão (área para prática desportiva e recreação sem cobertura, sem piso e sem edificações)","Dependências físicas existentes e utilizadas na escola - Terreirão (área para prática desportiva e recreação sem cobertura, sem piso e sem edificações)","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_VIVEIRO,Escola,Descrição e categorias idênticas,Dependências físicas existentes e utilizadas na escola -  Viveiro/criação de animais,Dependências físicas existentes e utilizadas na escola -  Viveiro/criação de animais,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_DEPENDENCIAS_OUTRAS,Escola,Descrição e categorias idênticas,Dependências existentes na escola - Nenhuma das dependências relacionadas,Dependências existentes na escola - Nenhuma das dependências relacionadas,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_CORRIMAO,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Corrimão e guarda corpos,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Corrimão e guarda corpos,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_ELEVADOR,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Elevador,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Elevador,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_PISOS_TATEIS,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Pisos táteis,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Pisos táteis,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_VAO_LIVRE,Escola,Descrição e categorias idênticas,"Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Portas com vão livre de, no mínimo, 80 cm","Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Portas com vão livre de, no mínimo, 80 cm","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_RAMPAS,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Rampas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Rampas,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_SINAL_SONORO,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização sonora,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização sonora,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_SINAL_TATIL,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização tátil (piso/paredes),Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização tátil (piso/paredes),"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_SINAL_VISUAL,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização visual (piso/paredes),Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização visual (piso/paredes),"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_INEXISTENTE,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Nenhum dos recursos de acessibilidade listados,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Nenhum dos recursos de acessibilidade listados,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSIBILIDADE_SINALIZACAO,Escola,Descrição e categorias idênticas,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização/alarme luminoso,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização/alarme luminoso,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_SALAS_UTILIZADAS_DENTRO,Escola,Descrição e categorias idênticas,Número de salas de aula utilizadas na escola - Dentro do prédio,Número de salas de aula utilizadas na escola - Dentro do prédio,,
+QT_SALAS_UTILIZADAS_FORA,Escola,Descrição e categorias idênticas,Número de salas de aula utilizadas na escola - Fora do prédio,Número de salas de aula utilizadas na escola - Fora do prédio,,
+QT_SALAS_UTILIZADAS,Escola,Descrição e categorias idênticas,Número de salas de aula utilizadas na escola (dentro e fora do prédio),Número de salas de aula utilizadas na escola (dentro e fora do prédio),,
+QT_SALAS_UTILIZA_CLIMATIZADAS,Escola,Descrição e categorias idênticas,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula climatizadas,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula climatizadas,,
+QT_SALAS_UTILIZADAS_ACESSIVEIS,Escola,Descrição e categorias idênticas,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula com acessibilidade para pessoas com deficiência ou mobilidade reduzida,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula com acessibilidade para pessoas com deficiência ou mobilidade reduzida,,
+IN_EQUIP_PARABOLICA,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para uso técnico e administrativo - Antena parabólica,Equipamentos existentes na escola para uso técnico e administrativo - Antena parabólica,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_COMPUTADOR,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para uso técnico e administrativo - Computador,Equipamentos existentes na escola para uso técnico e administrativo - Computador,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EQUIP_COPIADORA,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para uso técnico e administrativo - Copiadora,Equipamentos existentes na escola para uso técnico e administrativo - Copiadora,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EQUIP_IMPRESSORA,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para uso técnico e administrativo - Impressora,Equipamentos existentes na escola para uso técnico e administrativo - Impressora,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EQUIP_IMPRESSORA_MULT,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para uso técnico e administrativo - Impressora Multifuncional,Equipamentos existentes na escola para uso técnico e administrativo - Impressora Multifuncional,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EQUIP_SCANNER,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para uso técnico e administrativo - Scanner,Equipamentos existentes na escola para uso técnico e administrativo - Scanner,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EQUIP_NENHUM,Escola,Descrição e categorias idênticas,"Nenhum dos equipamentos listados para uso técnico e administrativo - Antena parabólica, Computador, Copiadora, Impressora, Impressora Multifuncional ou Scanner","Nenhum dos equipamentos listados para uso técnico e administrativo - Antena parabólica, Computador, Copiadora, Impressora, Impressora Multifuncional ou Scanner","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EQUIP_DVD,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para o processo ensino e aprendizagem - DVD/Blu-ray,Equipamentos existentes na escola para o processo ensino e aprendizagem - DVD/Blu-ray,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_EQUIP_DVD,Escola,Descrição e categorias idênticas,Quantidade de Aparelhos de DVD/Blu-ray,Quantidade de Aparelhos de DVD/Blu-ray,88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3)
+IN_EQUIP_SOM,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para o processo ensino e aprendizagem - Aparelho de som,Equipamentos existentes na escola para o processo ensino e aprendizagem - Aparelho de som,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_EQUIP_SOM,Escola,Descrição e categorias idênticas,Quantidade de Aparelhos de som,Quantidade de Aparelhos de som,88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3)
+IN_EQUIP_TV,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para o processo ensino e aprendizagem - Aparelho de televisão,Equipamentos existentes na escola para o processo ensino e aprendizagem - Aparelho de televisão,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_EQUIP_TV,Escola,Descrição e categorias idênticas,Quantidade de Aparelhos de televisão,Quantidade de Aparelhos de televisão,88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3)
+IN_EQUIP_LOUSA_DIGITAL,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para o processo ensino e aprendizagem - Lousa digital,Equipamentos existentes na escola para o processo ensino e aprendizagem - Lousa digital,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_EQUIP_LOUSA_DIGITAL,Escola,Descrição e categorias idênticas,Quantidade de Lousas digitais,Quantidade de Lousas digitais,88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3)
+IN_EQUIP_MULTIMIDIA,Escola,Descrição e categorias idênticas,Equipamentos existentes na escola para o processo ensino e aprendizagem - Projetor Multimídia (Datashow),Equipamentos existentes na escola para o processo ensino e aprendizagem - Projetor Multimídia (Datashow),"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_EQUIP_MULTIMIDIA,Escola,Descrição e categorias idênticas,Quantidade de Projetores Multimídia (Datashow),Quantidade de Projetores Multimídia (Datashow),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 salas existentes - foram marcados apenas valores>3)
+IN_DESKTOP_ALUNO,Escola,Descrição e categorias idênticas,Computadores em uso pelos alunos - Computador de mesa (desktop),Computadores em uso pelos alunos - Computador de mesa (desktop),"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_DESKTOP_ALUNO,Escola,Descrição e categorias idênticas,Quantidade de computadores em uso pelos alunos - Computador de mesa (desktop),Quantidade de computadores em uso pelos alunos - Computador de mesa (desktop),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 matrículas - foram marcados apenas valores>3),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 matrículas - foram marcados apenas valores>3)
+IN_COMP_PORTATIL_ALUNO,Escola,Descrição e categorias idênticas,Computadores em uso pelos alunos - Computador portátil,Computadores em uso pelos alunos - Computador portátil,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_COMP_PORTATIL_ALUNO,Escola,Descrição e categorias idênticas,Quantidade de computadores em uso pelos alunos - Computador portátil,Quantidade de computadores em uso pelos alunos - Computador portátil,88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 matrículas - foram marcados apenas valores>3),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 matrículas - foram marcados apenas valores>3)
+IN_TABLET_ALUNO,Escola,Descrição e categorias idênticas,Computadores em uso pelos alunos - Tablet,Computadores em uso pelos alunos - Tablet,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+QT_TABLET_ALUNO,Escola,Descrição e categorias idênticas,Quantidade de computadores em uso pelos alunos - Tablet,Quantidade de computadores em uso pelos alunos - Tablet,88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 matrículas - foram marcados apenas valores>3),88888 - registro com marcação de valor extremo (valor superior ao limite máximo de 4 equipamentos para cada 3 matrículas - foram marcados apenas valores>3)
+IN_INTERNET,Escola,Descrição e categorias idênticas,Acesso à Internet,Acesso à Internet,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_INTERNET_ALUNOS,Escola,Descrição e categorias idênticas,Acesso à Internet - Para uso dos alunos,Acesso à Internet - Para uso dos alunos,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_INTERNET_ADMINISTRATIVO,Escola,Descrição e categorias idênticas,Acesso à Internet - Para uso administrativo,Acesso à Internet - Para uso administrativo,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_INTERNET_APRENDIZAGEM,Escola,Descrição e categorias idênticas,Acesso à Internet - Para uso nos processos de ensino e aprendizagem,Acesso à Internet - Para uso nos processos de ensino e aprendizagem,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_INTERNET_COMUNIDADE,Escola,Descrição e categorias idênticas,Acesso à Internet - Para uso da comunidade,Acesso à Internet - Para uso da comunidade,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ACESSO_INTERNET_COMPUTADOR,Escola,Descrição e categorias idênticas,"Equipamentos que os alunos usam para acessar a internet da escola - Computadores de mesa, portáteis e tablets da escola (no laboratório de informática, biblioteca, sala de aula etc.)","Equipamentos que os alunos usam para acessar a internet da escola - Computadores de mesa, portáteis e tablets da escola (no laboratório de informática, biblioteca, sala de aula etc.)","0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_ACES_INTERNET_DISP_PESSOAIS,Escola,Descrição e categorias idênticas,"Equipamentos que os alunos usam para acessar a internet da escola - Dispositivos pessoais (computadores portáteis, celulares, tablets etc.)","Equipamentos que os alunos usam para acessar a internet da escola - Dispositivos pessoais (computadores portáteis, celulares, tablets etc.)","0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+TP_REDE_LOCAL,Escola,Descrição e categorias idênticas,Rede local de interligação de computadores,Rede local de interligação de computadores,"0 - Não há rede local interligando computadores
+1 - A cabo
+2 - Wireless
+3 - A cabo e Wireless
+9 - Não informado","0 - Não há rede local interligando computadores
+1 - A cabo
+2 - Wireless
+3 - A cabo e Wireless
+9 - Não informado"
+IN_BANDA_LARGA,Escola,Descrição e categorias idênticas,Internet Banda Larga,Internet Banda Larga,"0 - Não
+1 - Sim
+   - Não aplicável para escolas sem acesso à internet","0 - Não
+1 - Sim
+   - Não aplicável para escolas sem acesso à internet"
+IN_PROF_ADMINISTRATIVOS,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Auxiliares de secretaria ou auxiliares administrativos, atendentes",,"0 - Não
+1 - Sim",
+QT_PROF_ADMINISTRATIVOS,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola - Auxiliares de secretaria ou auxiliares administrativos, atendentes","Quantidade de profissionais que atuam na escola - Auxiliares de secretaria ou auxiliares administrativos, atendentes",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_SERVICOS_GERAIS,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Auxiliar de serviços gerais, porteiro(a), zelador(a), faxineiro(a), jardineiro(a)",,"0 - Não
+1 - Sim",
+QT_PROF_SERVICOS_GERAIS,Escola,Descrição e categorias idênticas,"Total de profissionais que atuam na escola - Auxiliar de serviços gerais, porteiro(a), zelador(a), faxineiro(a), jardineiro(a)","Total de profissionais que atuam na escola - Auxiliar de serviços gerais, porteiro(a), zelador(a), faxineiro(a), jardineiro(a)",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_BIBLIOTECARIO,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Bibliotecário(a), auxiliar de biblioteca ou monitor(a) da sala de leitura",,"0 - Não
+1 - Sim",
+QT_PROF_BIBLIOTECARIO,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola - Bibliotecário(a), auxiliar de biblioteca ou monitor(a) da sala de leitura","Quantidade de profissionais que atuam na escola - Bibliotecário(a), auxiliar de biblioteca ou monitor(a) da sala de leitura",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_SAUDE,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Bombeiro(a) brigadista, profissionais de assistência à saúde (urgência e emergência), Enfermeiro(a), Técnico(a) de enfermagem e socorrista",,"0 - Não
+1 - Sim",
+QT_PROF_SAUDE,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola - Bombeiro(a) brigadista, profissionais de assistência à saúde (urgência e emergência), Enfermeiro(a), Técnico(a) de enfermagem e socorrista","Quantidade de profissionais que atuam na escola - Bombeiro(a) brigadista, profissionais de assistência à saúde (urgência e emergência), Enfermeiro(a), Técnico(a) de enfermagem e socorrista",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_COORDENADOR,,Sem coluna homônima em 2025,Profissionais que atuam na escola - Coordenador(a) de turno/disciplina,,"0 - Não
+1 - Sim",
+QT_PROF_COORDENADOR,Escola,Descrição e categorias idênticas,Quantidade de profissionais que atuam na escola - Coordenador(a) de turno/disciplina,Quantidade de profissionais que atuam na escola - Coordenador(a) de turno/disciplina,88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_FONAUDIOLOGO,,Sem coluna homônima em 2025,Profissionais que atuam na escola - Fonoaudiólogo(a),,"0 - Não
+1 - Sim",
+QT_PROF_FONAUDIOLOGO,Escola,Descrição e categorias idênticas,Quantidade de profissionais que atuam na escola - Fonoaudiólogo(a),Quantidade de profissionais que atuam na escola - Fonoaudiólogo(a),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_NUTRICIONISTA,,Sem coluna homônima em 2025,Profissionais que atuam na escola - Nutricionista,,"0 - Não
+1 - Sim",
+QT_PROF_NUTRICIONISTA,Escola,Descrição e categorias idênticas,Quantidade de profissionais que atuam na escola - Nutricionista,Quantidade de profissionais que atuam na escola - Nutricionista,88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_PSICOLOGO,,Sem coluna homônima em 2025,Profissionais que atuam na escola - Psicólogo(a) Escolar,,"0 - Não
+1 - Sim",
+QT_PROF_PSICOLOGO,Escola,Descrição e categorias idênticas,Quantidade de profissionais que atuam na escola - Psicólogo(a) Escolar,Quantidade de profissionais que atuam na escola - Psicólogo(a) Escolar,88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_ALIMENTACAO,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Profissionais de preparação e segurança alimentar, cozinheiro(a), merendeiro(a) e auxiliar de cozinha",,"0 - Não
+1 - Sim",
+QT_PROF_ALIMENTACAO,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola -  Profissionais de preparação e segurança alimentar, cozinheiro(a), merendeiro(a) e auxiliar de cozinha","Quantidade de profissionais que atuam na escola -  Profissionais de preparação e segurança alimentar, cozinheiro(a), merendeiro(a) e auxiliar de cozinha",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_PEDAGOGIA,,Sem coluna homônima em 2025,"Profissionais que atuam na escola -  Profissionais de apoio e supervisão pedagógica: pedagogo(a), coordenador(a) pedagógico(a), orientador(a) educacional, supervisor(a) escolar e coordenador(a) de área de ensino",,"0 - Não
+1 - Sim",
+QT_PROF_PEDAGOGIA,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola -  Profissionais de apoio e supervisão pedagógica: pedagogo(a), coordenador(a) pedagógico(a), orientador(a) educacional, supervisor(a) escolar e coordenador(a) de área de ensino","Quantidade de profissionais que atuam na escola -  Profissionais de apoio e supervisão pedagógica: pedagogo(a), coordenador(a) pedagógico(a), orientador(a) educacional, supervisor(a) escolar e coordenador(a) de área de ensino",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_SECRETARIO,,Sem coluna homônima em 2025,Profissionais que atuam na escola - Secretário(a) escolar,,"0 - Não
+1 - Sim",
+QT_PROF_SECRETARIO,Escola,Descrição e categorias idênticas,Quantidade de profissionais que atuam na escola - Secretário(a) escolar,Quantidade de profissionais que atuam na escola - Secretário(a) escolar,88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_SEGURANCA,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Segurança, guarda ou segurança patrimonial",,"0 - Não
+1 - Sim",
+QT_PROF_SEGURANCA,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola - Segurança, guarda ou segurança patrimonial","Quantidade de profissionais que atuam na escola - Segurança, guarda ou segurança patrimonial",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_MONITORES,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Técnicos(as), monitores(as), supervisores(as) ou auxiliares de laboratório(s), de apoio a tecnologias educacionais ou em multimeios/multimídias eletrônico/digitais",,"0 - Não
+1 - Sim",
+QT_PROF_MONITORES,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola - Técnicos(as), monitores(as), supervisores(as) ou auxiliares de laboratório(s), de apoio a tecnologias educacionais ou em multimeios/multimídias eletrônico/digitais","Quantidade de profissionais que atuam na escola - Técnicos(as), monitores(as), supervisores(as) ou auxiliares de laboratório(s), de apoio a tecnologias educacionais ou em multimeios/multimídias eletrônico/digitais",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_GESTAO,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Vice-diretor(a) ou diretor(a) adjunto(a), profissionais responsáveis pela gestão administrativa e/ou financeira",,"0 - Não
+1 - Sim",
+QT_PROF_GESTAO,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola - Vice-diretor(a) ou diretor(a) adjunto(a), profissionais responsáveis pela gestão administrativa e/ou financeira","Quantidade de profissionais que atuam na escola - Vice-diretor(a) ou diretor(a) adjunto(a), profissionais responsáveis pela gestão administrativa e/ou financeira",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_ASSIST_SOCIAL,,Sem coluna homônima em 2025,Profissionais que atuam na escola - Orientador(a) comunitário(a) ou assistente social,,"0 - Não
+1 - Sim",
+QT_PROF_ASSIST_SOCIAL,Escola,Descrição e categorias idênticas,Quantidade de profissionais que atuam na escola - Orientador(a) comunitário(a) ou assistente social,Quantidade de profissionais que atuam na escola - Orientador(a) comunitário(a) ou assistente social,88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula),88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula)
+IN_PROF_TRAD_LIBRAS,,Sem coluna homônima em 2025,Profissionais que atuam na escola - Tradutor e Intérprete de Libras para atendimento em outros ambientes da escola que não seja sala de aula,,"0 - Não
+1 - Sim",
+QT_PROF_TRAD_LIBRAS,Escola,Descrição e categorias idênticas,Quantidade de profissionais que atuam na escola - Tradutor e Intérprete de Libras para atendimento em outros ambientes da escola que não seja sala de aula,Quantidade de profissionais que atuam na escola - Tradutor e Intérprete de Libras para atendimento em outros ambientes da escola que não seja sala de aula,"88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula de aluno com surdez, deficiência auditiva ou surdocegueira).","88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula de aluno com surdez, deficiência auditiva ou surdocegueira)."
+IN_PROF_AGRICOLA,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Agrônomos(as), horticultores(as), técnicos ou monitores(as) responsáveis pela gestão da área de horta, plantio e/ou produção agrícola",,"0 - Não
+1 - Sim",
+QT_PROF_AGRICOLA,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola - Agrônomos(as), horticultores(as), técnicos ou monitores(as) responsáveis pela gestão da área de horta, plantio e/ou produção agrícola","Quantidade de profissionais que atuam na escola - Agrônomos(as), horticultores(as), técnicos ou monitores(as) responsáveis pela gestão da área de horta, plantio e/ou produção agrícola",88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula).,88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula).
+IN_PROF_REVISOR_BRAILLE,,Sem coluna homônima em 2025,"Profissionais que atuam na escola - Revisor de texto Braille, assistente vidente (assistente de revisão do texto em Braille)",,"0 - Não
+1 - Sim",
+QT_PROF_REVISOR_BRAILLE,Escola,Descrição e categorias idênticas,"Quantidade de profissionais que atuam na escola - Revisor de texto Braille, assistente vidente (assistente de revisão do texto em Braille)","Quantidade de profissionais que atuam na escola - Revisor de texto Braille, assistente vidente (assistente de revisão do texto em Braille)","88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula de aluno com cegueira, surdo-cegueira ou baixa visão).","88888 - registro com marcação de valor extremo (valor superior ao limite máximo* definido com base na distribuição da razão de profissionais por matrícula de aluno com cegueira, surdo-cegueira ou baixa visão)."
+IN_ALIMENTACAO,Escola,Descrição e categorias idênticas,Alimentação escolar para os alunos - PNAE/FNDE,Alimentação escolar para os alunos - PNAE/FNDE,"0 - Não oferece
+1 - Oferece","0 - Não oferece
+1 - Oferece"
+IN_MATERIAL_PED_MULTIMIDIA,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Acervo multimídia,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Acervo multimídia,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_INFANTIL,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Brinquedos para Educação Infantil,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Brinquedos para Educação Infantil,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_CIENTIFICO,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Conjunto de materiais científicos,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Conjunto de materiais científicos,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_DIFUSAO,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Equipamento para amplificação e difusão de som/áudio,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Equipamento para amplificação e difusão de som/áudio,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_MUSICAL,Escola,Descrição e categorias idênticas,"Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Instrumentos musicais para conjunto, banda/fanfarra e/ou aulas de música","Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Instrumentos musicais para conjunto, banda/fanfarra e/ou aulas de música","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_JOGOS,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Jogos Educativos,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Jogos Educativos,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_ARTISTICAS,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais para atividades culturais e artísticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais para atividades culturais e artísticas,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_PROFISSIONAL,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais para Educação Profissional,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais para Educação Profissional,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_DESPORTIVA,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais para prática desportiva e recreação,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais para prática desportiva e recreação,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_INDIGENA,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Indígena,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Indígena,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_ETNICO,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais pedagógicos para a educação das relações étnico-raciais,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais pedagógicos para a educação das relações étnico-raciais,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_CAMPO,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais pedagógicos para a educação do campo,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Materiais pedagógicos para a educação do campo,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_BIL_SURDOS,Escola,Descrição e categorias idênticas,"Instrumentos, materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino aprendizagem - Materiais pedagógicos para a educação bilíngue de surdos","Instrumentos, materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino aprendizagem - Materiais pedagógicos para a educação bilíngue de surdos","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_AGRICOLA,Escola,Descrição e categorias idênticas,"Instrumentos, materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino aprendizagem - Equipamentos e instrumentos para atividades em área de horta, plantio e/ou produção agrícola","Instrumentos, materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino aprendizagem - Equipamentos e instrumentos para atividades em área de horta, plantio e/ou produção agrícola","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_QUILOMBOLA,Escola,Descrição e categorias idênticas,"Instrumentos, materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino aprendizagem - Materiais pedagógicos para a educação escolar quilombola","Instrumentos, materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino aprendizagem - Materiais pedagógicos para a educação escolar quilombola","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_EDU_ESP,Escola,Descrição e categorias idênticas,"Instrumentos, materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino aprendizagem - Materiais pedagógicos para a educação especial","Instrumentos, materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino aprendizagem - Materiais pedagógicos para a educação especial","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MATERIAL_PED_NENHUM,Escola,Descrição e categorias idênticas,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Nenhum,Instrumentos e materiais socioculturais e/ou pedagógicos em uso na escola para o desenvolvimento de atividades de ensino e aprendizagem - Nenhum,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EDUCACAO_INDIGENA,Escola,Descrição e categorias idênticas,Escola Indígena,Escola Indígena,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+TP_INDIGENA_LINGUA,Escola,Descrição e categorias idênticas,Escola Indígena - Língua em que o ensino é ministrado (apenas para escola indígena),Escola Indígena - Língua em que o ensino é ministrado (apenas para escola indígena),"1 - Somente em Língua Indígena
+2 - Somente em Língua Portuguesa
+3 - Em Língua Indígena e em Língua Portuguesa
+ - não aplicável (aplicável apenas para Escola Indígena)","1 - Somente em Língua Indígena
+2 - Somente em Língua Portuguesa
+3 - Em Língua Indígena e em Língua Portuguesa
+ - não aplicável (aplicável apenas para Escola Indígena)"
+CO_LINGUA_INDIGENA_1,Escola,Descrição e categorias idênticas,Escola Indígena - Língua em que o ensino é ministrado (apenas para escola indígena) - Língua Indígena - Código da língua Indígena 1,Escola Indígena - Língua em que o ensino é ministrado (apenas para escola indígena) - Língua Indígena - Código da língua Indígena 1,,
+CO_LINGUA_INDIGENA_2,Escola,Descrição e categorias idênticas,Escola Indígena - Língua em que o ensino é ministrado (apenas para escola indígena) - Língua Indígena - Código da língua Indígena 2,Escola Indígena - Língua em que o ensino é ministrado (apenas para escola indígena) - Língua Indígena - Código da língua Indígena 2,,
+CO_LINGUA_INDIGENA_3,Escola,Descrição e categorias idênticas,Escola Indígena - Língua em que o ensino é ministrado (apenas para escola indígena) - Língua Indígena - Código da língua Indígena 3,Escola Indígena - Língua em que o ensino é ministrado (apenas para escola indígena) - Língua Indígena - Código da língua Indígena 3,,
+IN_EXAME_SELECAO,Escola,Descrição e categorias idênticas,A escola faz exame de seleção para ingresso de seus alunos (avaliação por prova e/ou análise curricular),A escola faz exame de seleção para ingresso de seus alunos (avaliação por prova e/ou análise curricular),"0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_RESERVA_PPI,Escola,Descrição e categorias idênticas,"Reserva de vagas por sistema de cotas para grupos específicos de alunos - Autodeclarado preto, pardo ou indígena (PPI)","Reserva de vagas por sistema de cotas para grupos específicos de alunos - Autodeclarado preto, pardo ou indígena (PPI)","0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção","0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção"
+IN_RESERVA_RENDA,Escola,Descrição e categorias idênticas,Reserva de vagas por sistema de cotas para grupos específicos de alunos - Condição de Renda,Reserva de vagas por sistema de cotas para grupos específicos de alunos - Condição de Renda,"0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção","0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção"
+IN_RESERVA_PUBLICA,Escola,Descrição e categorias idênticas,Reserva de vagas por sistema de cotas para grupos específicos de alunos - Oriundo de escola pública,Reserva de vagas por sistema de cotas para grupos específicos de alunos - Oriundo de escola pública,"0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção","0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção"
+IN_RESERVA_PCD,Escola,Descrição e categorias idênticas,Reserva de vagas por sistema de cotas para grupos específicos de alunos - Pessoa com deficiência (PCD),Reserva de vagas por sistema de cotas para grupos específicos de alunos - Pessoa com deficiência (PCD),"0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção","0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção"
+IN_RESERVA_OUTROS,Escola,Descrição e categorias idênticas,Reserva de vagas por sistema de cotas para grupos específicos de alunos - Outros grupos,Reserva de vagas por sistema de cotas para grupos específicos de alunos - Outros grupos,"0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção","0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção"
+IN_RESERVA_NENHUMA,Escola,Descrição e categorias idênticas,Reserva de vagas por sistema de cotas para grupos específicos de alunos - Sem reservas de vagas para sistema de cotas (ampla concorrência),Reserva de vagas por sistema de cotas para grupos específicos de alunos - Sem reservas de vagas para sistema de cotas (ampla concorrência),"0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção","0 - Não
+1 - Sim
+ - Não aplicável para escolas que não fazem exame de seleção"
+IN_REDES_SOCIAIS,Escola,Descrição e categorias idênticas,A escola possui site ou blog ou página em redes sociais para comunicação institucional,A escola possui site ou blog ou página em redes sociais para comunicação institucional,"0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_ESPACO_ATIVIDADE,Escola,Descrição e categorias idênticas,A escola compartilha espaços para atividades de integração escola-comunidade,A escola compartilha espaços para atividades de integração escola-comunidade,"0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_ESPACO_EQUIPAMENTO,Escola,Descrição e categorias idênticas,A escola usa espaços e equipamentos do entorno escolar para atividades regulares com os alunos,A escola usa espaços e equipamentos do entorno escolar para atividades regulares com os alunos,"0 - Não
+1 - Sim
+9 - Não informado","0 - Não
+1 - Sim
+9 - Não informado"
+IN_ORGAO_ASS_PAIS,Escola,Descrição e categorias idênticas,Órgãos colegiados em funcionamento na escola - Associação de Pais,Órgãos colegiados em funcionamento na escola - Associação de Pais,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ORGAO_ASS_PAIS_MESTRES,Escola,Descrição e categorias idênticas,Órgãos colegiados em funcionamento na escola - Associação de Pais e Mestres,Órgãos colegiados em funcionamento na escola - Associação de Pais e Mestres,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ORGAO_CONSELHO_ESCOLAR,Escola,Descrição e categorias idênticas,Órgãos colegiados em funcionamento na escola - Conselho Escolar,Órgãos colegiados em funcionamento na escola - Conselho Escolar,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ORGAO_GREMIO_ESTUDANTIL,Escola,Descrição e categorias idênticas,Órgãos colegiados em funcionamento na escola - Grêmio Estudantil,Órgãos colegiados em funcionamento na escola - Grêmio Estudantil,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ORGAO_OUTROS,Escola,Descrição e categorias idênticas,Órgãos colegiados em funcionamento na escola - Outros,Órgãos colegiados em funcionamento na escola - Outros,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_ORGAO_NENHUM,Escola,Descrição e categorias idênticas,Órgãos colegiados em funcionamento na escola - Não há órgãos colegiados em funcionamento,Órgãos colegiados em funcionamento na escola - Não há órgãos colegiados em funcionamento,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+TP_PROPOSTA_PEDAGOGICA,Escola,Descrição e categorias idênticas,O projeto político pedagógico ou a proposta pedagógica da escola (conforme art. 12 da LDB) foi atualizado nos últimos 12 meses até a data de referência,O projeto político pedagógico ou a proposta pedagógica da escola (conforme art. 12 da LDB) foi atualizado nos últimos 12 meses até a data de referência,"0 - Não
+1 - Sim
+2 - A escola não possui projeto político pedagógico/proposta pedagógica
+9 - Não informado","0 - Não
+1 - Sim
+2 - A escola não possui projeto político pedagógico/proposta pedagógica
+9 - Não informado"
+IN_EDUC_AMBIENTAL,Escola,Descrição e categorias idênticas,A escola desenvolve ações na área de educação ambiental?,A escola desenvolve ações na área de educação ambiental?,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EDUC_AMB_CONTEUDO,Escola,Descrição e categorias idênticas,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Como conteúdo dos componentes/campos de experiências presentes no currículo,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Como conteúdo dos componentes/campos de experiências presentes no currículo,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EDUC_AMB_CURRICULAR,Escola,Descrição e categorias idênticas,"Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Como um componente curricular especial, específico, flexível ou eletivo","Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Como um componente curricular especial, específico, flexível ou eletivo","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EDUC_AMB_EIXO,Escola,Descrição e categorias idênticas,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Como um eixo estruturante do currículo,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Como um eixo estruturante do currículo,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EDUC_AMB_EVENTOS,Escola,Descrição e categorias idênticas,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Em eventos,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Em eventos,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EDUC_AMB_PROJETOS,Escola,Descrição e categorias idênticas,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Em projetos transversais ou interdisciplinares,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Em projetos transversais ou interdisciplinares,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EDUC_AMB_NENHUMA,Escola,Descrição e categorias idênticas,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Nenhuma das opções listadas,Informe de qual(quais) forma(s) a educação ambiental é desenvolvida na escola: Nenhuma das opções listadas,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+TP_AEE,Escola,Descrição e categorias idênticas,Atendimento Educacional Especializado (AEE),Atendimento Educacional Especializado (AEE),"0 - Não oferece
+1 - Não exclusivamente
+2 - Exclusivamente","0 - Não oferece
+1 - Não exclusivamente
+2 - Exclusivamente"
+TP_ATIVIDADE_COMPLEMENTAR,Escola,Descrição e categorias idênticas,Atividade Complementar,Atividade Complementar,"0 - Não oferece
+1 - Não exclusivamente
+2 - Exclusivamente","0 - Não oferece
+1 - Não exclusivamente
+2 - Exclusivamente"
+IN_MEDIACAO_PRESENCIAL,Escola,Descrição e categorias idênticas,Mediação didático-pedagógica oferecida pela escola - Presencial,Mediação didático-pedagógica oferecida pela escola - Presencial,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MEDIACAO_SEMIPRESENCIAL,Escola,Descrição e categorias idênticas,Mediação didático-pedagógica oferecida pela escola - Semipresencial,Mediação didático-pedagógica oferecida pela escola - Semipresencial,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_MEDIACAO_EAD,Escola,Descrição e categorias idênticas,Mediação didático-pedagógica oferecida pela escola - Educação a Distância - EAD,Mediação didático-pedagógica oferecida pela escola - Educação a Distância - EAD,"0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_REGULAR,Escola,Texto do dicionário difere: revisar,"Modo, maneira ou metodologia de ensino correspondente às turmas com etapas de escolarização consecutivas, Creche ao Ensino Médio","Ensino Regular - Modo, maneira ou metodologia de ensino correspondente às turmas com etapas de escolarização consecutivas, Creche ao Ensino Médio","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_DIURNO,,Sem coluna homônima em 2025,Turno - Diurno - Maior parte das atividades da turma são realizadas no período entre 6h e 17:59h,,"0 - Não
+1 - Sim",
+IN_NOTURNO,,Sem coluna homônima em 2025,Turno - Noturno - Maior parte das atividades da turma são realizadas entre 18h e 5:59h,,"0 - Não
+1 - Sim",
+IN_EAD,,Sem coluna homônima em 2025,Turno não aplicável para turmas semipresenciais ou de Educação a Distância (EAD),,"0 - Não
+1 - Sim",
+IN_ESCOLARIZACAO,Escola,Texto do dicionário difere: revisar,"Escola possui uma ou mais matrículas de escolarização em alguma das seguintes etapas de ensino: Creche, Pré-Escola, Ensino Fundamental, Ensino Médio, Educação de Jovens e Adultos (EJA), Curso Técnico Concomitante, Curso Técnico Subsequente, Curso FIC Concomitante","Escola possui uma ou mais matrículas de escolarização em alguma das seguintes etapas de ensino: Creche, Pré-Escola, Ensino Fundamental, Ensino Médio, Educação de Jovens e Adultos (EJA), Curso Técnico Concomitante, Curso Técnico Subsequente, Curso FIC Concomitante, Itinerário Formativo Técnico Profissional (IFTP) Exclusivo - Curso Técnico (não articulado ao ensino médio regular) e Itinerário Formativo Técnico Profissional Exclusivo - Qualificação Profissional (não articulado ao ensino médio regular)","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_INF,,Sem coluna homônima em 2025,Etapa de Ensino - Educação Infantil (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_INF_CRE,,Sem coluna homônima em 2025,Etapa de Ensino - Educação Infantil - Creche (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_INF_PRE,,Sem coluna homônima em 2025,Etapa de Ensino - Educação Infantil - Pré-Escola (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_FUND,,Sem coluna homônima em 2025,Etapa de Ensino - Ensino Fundamental (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_FUND_AI,,Sem coluna homônima em 2025,Etapa de Ensino - Ensino Fundamental - Anos Iniciais (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_FUND_AF,,Sem coluna homônima em 2025,Etapa de Ensino - Ensino Fundamental - Anos Finais (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_MED,,Sem coluna homônima em 2025,Etapa de Ensino - Ensino Médio (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_PROF,,Sem coluna homônima em 2025,Educação Profissional - Modo profissionalizante de ensino correspondente às turmas de cursos de formação inicial e continuada ou de qualificação profissional (Cursos FIC) articulados à EJA ou concomitantes; ou de cursos técnicos de nível médio nas formas articulada (integrada ou concomitante) ou subsequente ao ensino médio e de normal/magistério (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_PROF_TEC,,Sem coluna homônima em 2025,"Educação Profissional Técnica - Modo profissionalizante de ensino correspondente às turmas de cursos técnicos de nível médio nas formas articuladas (integrada ou concomitante), ou subsequente ao ensino médio e de normal/magistério (Possui uma ou mais matrículas)",,"0 - Não
+1 - Sim",
+IN_EJA,Escola,Texto do dicionário difere: revisar,"Educação de Jovens e Adultos (EJA) - Modo, maneira ou metodologia de ensino correspondente às turmas destinadas a pessoas que não cursaram o ensino fundamental e/ou médio em idade própria (Possui uma ou mais matrículas)","Educação de Jovens e Adultos (EJA) - Modo, maneira ou metodologia de ensino correspondente às turmas destinadas a pessoas que não cursaram o ensino fundamental e/ou médio em idade própria.","0 - Não
+1 - Sim","0 - Não
+1 - Sim"
+IN_EJA_FUND,,Sem coluna homônima em 2025,Educação de Jovens e Adultos (EJA) - Ensino Fundamental  (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_EJA_MED,,Sem coluna homônima em 2025,Educação de Jovens e Adultos (EJA) - Ensino Médio (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_ESP,,Sem coluna homônima em 2025,Educação Especial - Inclui a Educação Especial Inclusiva (em Classes Comuns) e a Educação Especial Exclusiva (Possui uma ou mais matrículas),,"0 - Não
+1 - Sim",
+IN_ESP_CC,,Sem coluna homônima em 2025,"Educação Especial Inclusiva (em Classes Comuns) - Escola possui um ou mais alunos com deficiência, transtorno global do desenvolvimento ou altas habilidades/superdotação estudando em classes comuns do Ensino Regular e/ou Educação de Jovens e Adultos (Possui uma ou mais matrículas)",,"0 - Não
+1 - Sim",
+IN_ESP_CE,,Sem coluna homônima em 2025,"Educação Especial Exclusiva - Escola exclusivamente especializada e/ou que possui classe especial exclusiva para o atendimento de alunos com deficiência, transtorno global do desenvolvimento ou altas habilidades/superdotação (Possui uma ou mais matrículas)",,"0 - Não
+1 - Sim",
+QT_MAT_BAS,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica,Número de Matrículas da Educação Básica,,
+QT_MAT_INF,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Infantil,Número de Matrículas da Educação Infantil,,
+QT_MAT_INF_CRE,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Infantil - Creche,Número de Matrículas da Educação Infantil - Creche,,
+QT_MAT_INF_PRE,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Infantil - Pré-Escola,Número de Matrículas da Educação Infantil - Pré-Escola,,
+QT_MAT_FUND,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental,Número de Matrículas do Ensino Fundamental,,
+QT_MAT_FUND_AI,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Iniciais,Número de Matrículas do Ensino Fundamental - Anos Iniciais,,
+QT_MAT_FUND_AI_1,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 1º Ano,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 1º Ano,,
+QT_MAT_FUND_AI_2,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 2º Ano,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 2º Ano,,
+QT_MAT_FUND_AI_3,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 3º Ano,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 3º Ano,,
+QT_MAT_FUND_AI_4,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 4º Ano,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 4º Ano,,
+QT_MAT_FUND_AI_5,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 5º Ano,Número de Matrículas do Ensino Fundamental - Anos Iniciais - 5º Ano,,
+QT_MAT_FUND_AF,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Finais,Número de Matrículas do Ensino Fundamental - Anos Finais,,
+QT_MAT_FUND_AF_6,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Finais - 6º Ano,Número de Matrículas do Ensino Fundamental - Anos Finais - 6º Ano,,
+QT_MAT_FUND_AF_7,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Finais - 7º Ano,Número de Matrículas do Ensino Fundamental - Anos Finais - 7º Ano,,
+QT_MAT_FUND_AF_8,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Finais - 8º Ano,Número de Matrículas do Ensino Fundamental - Anos Finais - 8º Ano,,
+QT_MAT_FUND_AF_9,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Finais - 9º Ano,Número de Matrículas do Ensino Fundamental - Anos Finais - 9º Ano,,
+QT_MAT_MED,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio,Número de Matrículas do Ensino Médio Regular,,
+QT_MAT_MED_PROP,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio - Propedêutico,Número de Matrículas do Ensino Médio Regular - Propedêutico,,
+QT_MAT_MED_PROP_1,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio - Propedêutico - 1º ano/1ª Série,Número de Matrículas do Ensino Médio Regular - Propedêutico - 1º ano/1ª Série,,
+QT_MAT_MED_PROP_2,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio - Propedêutico - 2º ano/2ª Série,Número de Matrículas do Ensino Médio Regular - Propedêutico - 2º ano/2ª Série,,
+QT_MAT_MED_PROP_3,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio - Propedêutico - 3º ano/3ª Série,Número de Matrículas do Ensino Médio Regular - Propedêutico - 3º ano/3ª Série,,
+QT_MAT_MED_PROP_4,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio - Propedêutico - 4º ano/4ª Série,Número de Matrículas do Ensino Médio Regular - Propedêutico - 4º ano/4ª Série,,
+QT_MAT_MED_PROP_NS,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio - Propedêutico - Não Seriado,Número de Matrículas do Ensino Médio Regular - Propedêutico - Não Seriado,,
+QT_MAT_MED_CT,,Sem coluna homônima em 2025,Número de Matrículas do Ensino Médio - Curso Técnico Integrado à Educação Profissional,,,
+QT_MAT_MED_CT_1,,Sem coluna homônima em 2025,Número de Matrículas do Ensino Médio - Curso Técnico Integrado à Educação Profissional - 1º ano/1ª Série,,,
+QT_MAT_MED_CT_2,,Sem coluna homônima em 2025,Número de Matrículas do Ensino Médio - Curso Técnico Integrado à Educação Profissional - 2º ano/2ª Série,,,
+QT_MAT_MED_CT_3,,Sem coluna homônima em 2025,Número de Matrículas do Ensino Médio - Curso Técnico Integrado à Educação Profissional - 3º ano/3ª Série,,,
+QT_MAT_MED_CT_4,,Sem coluna homônima em 2025,Número de Matrículas do Ensino Médio - Curso Técnico Integrado à Educação Profissional - 4º ano/4ª Série,,,
+QT_MAT_MED_CT_NS,,Sem coluna homônima em 2025,Número de Matrículas do Ensino Médio - Curso Técnico Integrado à Educação Profissional - Não Seriado,,,
+QT_MAT_MED_NM,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio -  Modalidade Normal/Magistério,Número de Matrículas do Ensino Médio Regular -  Modalidade Normal/Magistério,,
+QT_MAT_MED_NM_1,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio -  Modalidade Normal/Magistério - 1º ano/1ª Série,Número de Matrículas do Ensino Médio Regular -  Modalidade Normal/Magistério - 1º ano/1ª Série,,
+QT_MAT_MED_NM_2,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio -  Modalidade Normal/Magistério - 2º ano/2ª Série,Número de Matrículas do Ensino Médio Regular -  Modalidade Normal/Magistério - 2º ano/2ª Série,,
+QT_MAT_MED_NM_3,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio -  Modalidade Normal/Magistério - 3º ano/3ª Série,Número de Matrículas do Ensino Médio Regular -  Modalidade Normal/Magistério - 3º ano/3ª Série,,
+QT_MAT_MED_NM_4,Matricula,Texto do dicionário difere: revisar,Número de Matrículas do Ensino Médio -  Modalidade Normal/Magistério - 4º ano/4ª Série,Número de Matrículas do Ensino Médio Regular -  Modalidade Normal/Magistério - 4º ano/4ª Série,,
+QT_MAT_PROF,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Profissional,Número de Matrículas da Educação Profissional,,
+QT_MAT_PROF_TEC,Matricula,Definição ausente no dicionário,,Número de Matrículas da Educação Profissional Técnica,,
+QT_MAT_PROF_TEC_CONC,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Profissional Técnica - Curso Técnico Concomitante,Número de Matrículas da Educação Profissional Técnica - Curso Técnico Concomitante,,
+QT_MAT_PROF_TEC_SUBS,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Profissional Técnica - Curso Técnico Subsequente,Número de Matrículas da Educação Profissional Técnica - Curso Técnico Subsequente,,
+QT_MAT_PROF_FIC_CONC,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Profissional - Curso FIC Concomitante,Número de Matrículas da Educação Profissional - Curso FIC Concomitante,,Educação Profissional Não-Técnica
+QT_MAT_EJA,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação de Jovens e Adultos (EJA),Número de Matrículas da Educação de Jovens e Adultos (EJA),,
+QT_MAT_EJA_FUND,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental,,
+QT_MAT_EJA_FUND_AI,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental - Anos Iniciais,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental - Anos Iniciais,,
+QT_MAT_EJA_FUND_AF,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental - Anos Finais,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental - Anos Finais,,
+QT_MAT_EJA_FUND_FIC,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental - Curso FIC Integrado na Modalidade EJA de Nível Fundamental,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental - Curso FIC Integrado na Modalidade EJA de Nível Fundamental,,Educação Profissional Não-Técnica
+QT_MAT_EJA_MED,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Médio,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Médio,,
+QT_MAT_EJA_MED_NPROF,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Médio - Sem componente profissionalizante,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Médio - Sem componente profissionalizante,,
+QT_MAT_EJA_MED_FIC,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Médio - Curso FIC Integrado na Modalidade EJA de Nível Médio,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Médio - Curso FIC Integrado na Modalidade EJA de Nível Médio,,Educação Profissional Não-Técnica
+QT_MAT_EJA_MED_TEC,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Médio - Curso Técnico Integrado na Modalidade EJA de Nível Médio,Número de Matrículas da Educação de Jovens e Adultos (EJA) - Ensino Médio - Curso Técnico Integrado na Modalidade EJA de Nível Médio,,Deve ser considerada também como uma etapa Profissional Técnica
+QT_MAT_ESP,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Especial,Número de Matrículas da Educação Especial,,
+QT_MAT_ESP_CC,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Especial Inclusiva,Número de Matrículas da Educação Especial em Classes Comuns,,
+QT_MAT_ESP_CE,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Especial Exclusiva,Número de Matrículas da Educação Especial em Classes Exclusivas,,
+QT_MAT_BAS_FEM,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Feminino,Número de Matrículas da Educação Básica - Feminino,,
+QT_MAT_BAS_MASC,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Masculino,Número de Matrículas da Educação Básica - Masculino,,
+QT_MAT_BAS_ND,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Cor/Raça Não Declarada,Número de Matrículas da Educação Básica - Cor/Raça Não Declarada,,
+QT_MAT_BAS_BRANCA,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Cor/Raça Branca,Número de Matrículas da Educação Básica - Cor/Raça Branca,,
+QT_MAT_BAS_PRETA,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Cor/Raça Preta,Número de Matrículas da Educação Básica - Cor/Raça Preta,,
+QT_MAT_BAS_PARDA,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Cor/Raça Parda,Número de Matrículas da Educação Básica - Cor/Raça Parda,,
+QT_MAT_BAS_AMARELA,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Cor/Raça Amarela,Número de Matrículas da Educação Básica - Cor/Raça Amarela,,
+QT_MAT_BAS_INDIGENA,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Cor/Raça Indígena,Número de Matrículas da Educação Básica - Cor/Raça Indígena,,
+QT_MAT_BAS_0_3,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Básica - Até 3 anos de idade,Número de Matrículas da Educação Básica - Até 3 anos de idade na data de referência do Censo Escolar (última quarta-feira do mês de maio de 2025),,
+QT_MAT_BAS_4_5,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Básica - Entre 4 e 5 anos de idade,Número de Matrículas da Educação Básica - Entre 4 e 5 anos de idade na data de referência do Censo Escolar (última quarta-feira do mês de maio de 2025),,
+QT_MAT_BAS_6_10,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Básica - Entre 6 e 10 anos de idade,Número de Matrículas da Educação Básica - Entre 6 e 10 anos de idade na data de referência do Censo Escolar (última quarta-feira do mês de maio de 2025),,
+QT_MAT_BAS_11_14,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Básica - Entre 11 e 14 anos de idade,Número de Matrículas da Educação Básica - Entre 11 e 14 anos de idade na data de referência do Censo Escolar (última quarta-feira do mês de maio de 2025),,
+QT_MAT_BAS_15_17,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Básica - Entre 15 e 17 anos de idade,Número de Matrículas da Educação Básica - Entre 15 e 17 anos de idade na data de referência do Censo Escolar (última quarta-feira do mês de maio de 2025),,
+QT_MAT_BAS_18_MAIS,Matricula,Texto do dicionário difere: revisar,Número de Matrículas da Educação Básica - Com 18 ou mais anos de idade,Número de Matrículas da Educação Básica - Com 18 ou mais anos de idade na data de referência do Censo Escolar (última quarta-feira do mês de maio de 2025),,
+QT_MAT_BAS_D,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Turno Diurno,Número de Matrículas da Educação Básica - Turno Diurno,,
+QT_MAT_BAS_N,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Turno Noturno,Número de Matrículas da Educação Básica - Turno Noturno,,
+QT_MAT_BAS_EAD,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Turno não aplicável  para turmas semipresenciais ou de Educação a Distância (EAD),Número de Matrículas da Educação Básica - Turno não aplicável  para turmas semipresenciais ou de Educação a Distância (EAD),,
+QT_MAT_INF_INT,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Infantil - Tempo Integral,Número de Matrículas da Educação Infantil - Tempo Integral,,
+QT_MAT_INF_CRE_INT,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Infantil - Creche - Tempo Integral,Número de Matrículas da Educação Infantil - Creche - Tempo Integral,,
+QT_MAT_INF_PRE_INT,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Infantil - Pré-Escola - Tempo Integral,Número de Matrículas da Educação Infantil - Pré-Escola - Tempo Integral,,
+QT_MAT_FUND_INT,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Tempo Integral,Número de Matrículas do Ensino Fundamental - Tempo Integral,,
+QT_MAT_FUND_AI_INT,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Iniciais - Tempo Integral,Número de Matrículas do Ensino Fundamental - Anos Iniciais - Tempo Integral,,
+QT_MAT_FUND_AF_INT,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Fundamental - Anos Finais - Tempo Integral,Número de Matrículas do Ensino Fundamental - Anos Finais - Tempo Integral,,
+QT_MAT_MED_INT,Matricula,Descrição e categorias idênticas,Número de Matrículas do Ensino Médio - Tempo Integral,Número de Matrículas do Ensino Médio - Tempo Integral,,
+QT_MAT_ZR_URB,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Localização/Zona de residência do Aluno - Urbana,Número de Matrículas da Educação Básica - Localização/Zona de residência do Aluno - Urbana,,
+QT_MAT_ZR_RUR,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Localização/Zona de residência do Aluno - Rural,Número de Matrículas da Educação Básica - Localização/Zona de residência do Aluno - Rural,,
+QT_MAT_ZR_NA,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica - Localização/Zona de residência do Aluno - Não aplicável para alunos residentes no exterior,Número de Matrículas da Educação Básica - Localização/Zona de residência do Aluno - Não aplicável para alunos residentes no exterior,,
+QT_TRANSP_PUBLICO,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica de alunos que utilizam transporte escolar público,Número de Matrículas da Educação Básica de alunos que utilizam transporte escolar público,,
+QT_TRANSP_RESP_EST,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica segundo o poder público responsável pelo transporte escolar - Estadual,Número de Matrículas da Educação Básica segundo o poder público responsável pelo transporte escolar - Estadual,,
+QT_TRANSP_RESP_MUN,Matricula,Descrição e categorias idênticas,Número de Matrículas da Educação Básica segundo o poder público responsável pelo transporte escolar - Municipal,Número de Matrículas da Educação Básica segundo o poder público responsável pelo transporte escolar - Municipal,,
+QT_DOC_BAS,Docente,Descrição e categorias idênticas,Número de Docentes da Educação Básica,Número de Docentes da Educação Básica,,
+QT_DOC_INF,Docente,Descrição e categorias idênticas,Número de Docentes da Educação Infantil,Número de Docentes da Educação Infantil,,
+QT_DOC_INF_CRE,Docente,Descrição e categorias idênticas,Número de Docentes da Educação Infantil - Creche,Número de Docentes da Educação Infantil - Creche,,
+QT_DOC_INF_PRE,Docente,Descrição e categorias idênticas,Número de Docentes da Educação Infantil - Pré-Escola,Número de Docentes da Educação Infantil - Pré-Escola,,
+QT_DOC_FUND,Docente,Descrição e categorias idênticas,Número de Docentes do Ensino Fundamental,Número de Docentes do Ensino Fundamental,,
+QT_DOC_FUND_AI,Docente,Descrição e categorias idênticas,Número de Docentes do Ensino Fundamental - Anos Iniciais,Número de Docentes do Ensino Fundamental - Anos Iniciais,,
+QT_DOC_FUND_AF,Docente,Descrição e categorias idênticas,Número de Docentes do Ensino Fundamental - Anos Finais,Número de Docentes do Ensino Fundamental - Anos Finais,,
+QT_DOC_MED,Docente,Texto do dicionário difere: revisar,Número de Docentes do Ensino Médio,Número de Docentes do Ensino Médio Regular,,
+QT_DOC_PROF,Docente,Descrição e categorias idênticas,Número de Docentes da Educação Profissional,Número de Docentes da Educação Profissional,,
+QT_DOC_PROF_TEC,Docente,Descrição e categorias idênticas,Número de Docentes da Educação Profissional Técnica,Número de Docentes da Educação Profissional Técnica,,
+QT_DOC_EJA,Docente,Descrição e categorias idênticas,Número de Docentes da Educação de Jovens e Adultos (EJA),Número de Docentes da Educação de Jovens e Adultos (EJA),,
+QT_DOC_EJA_FUND,Docente,Descrição e categorias idênticas,Número de Docentes da Educação de Jovens e Adultos (EJA) - Ensino Fundamental,Número de Docentes da Educação de Jovens e Adultos (EJA) - Ensino Fundamental,,
+QT_DOC_EJA_MED,Docente,Descrição e categorias idênticas,Número de Docentes da Educação de Jovens e Adultos (EJA) - Ensino Médio,Número de Docentes da Educação de Jovens e Adultos (EJA) - Ensino Médio,,
+QT_DOC_ESP,Docente,Descrição e categorias idênticas,Número de Docentes da Educação Especial,Número de Docentes da Educação Especial,,
+QT_DOC_ESP_CC,Docente,Texto do dicionário difere: revisar,Número de Docentes da Educação Especial Inclusiva,Número de Docentes da Educação Especial em Classes Comuns,,
+QT_DOC_ESP_CE,Docente,Texto do dicionário difere: revisar,Número de Docentes da Educação Especial Exclusiva,Número de Docentes da Educação Especial em Classes Exclusivas,,
+QT_TUR_BAS,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Básica,Número de Turmas da Educação Básica,,
+QT_TUR_INF,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Infantil,Número de Turmas da Educação Infantil,,
+QT_TUR_INF_CRE,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Infantil - Creche,Número de Turmas da Educação Infantil - Creche,,
+QT_TUR_INF_PRE,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Infantil - Pré-Escola,Número de Turmas da Educação Infantil - Pré-Escola,,
+QT_TUR_FUND,Turma,Texto do dicionário difere: revisar,Número de Turmas de Ensino Fundamental,Número de Turmas do Ensino Fundamental,,
+QT_TUR_FUND_AI,Turma,Texto do dicionário difere: revisar,Número de Turmas de Ensino Fundamental - Anos Iniciais,Número de Turmas do Ensino Fundamental - Anos Iniciais,,
+QT_TUR_FUND_AF,Turma,Texto do dicionário difere: revisar,Número de Turmas de Ensino Fundamental - Anos Finais,Número de Turmas do Ensino Fundamental - Anos Finais,,
+QT_TUR_MED,Turma,Texto do dicionário difere: revisar,Número de Turmas de Ensino Médio,Número de Turmas do Ensino Médio Regular,,
+QT_TUR_PROF,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Profissional,Número de Turmas da Educação Profissional,,
+QT_TUR_PROF_TEC,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Profissional Técnica,Número de Turmas da Educação Profissional Técnica,,
+QT_TUR_EJA,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação de Jovens e Adultos (EJA),Número de Turmas da Educação de Jovens e Adultos (EJA),,
+QT_TUR_EJA_FUND,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação de Jovens e Adultos (EJA) - Ensino Fundamental,Número de Turmas da Educação de Jovens e Adultos (EJA) - Ensino Fundamental,,
+QT_TUR_EJA_MED,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação de Jovens e Adultos (EJA) - Ensino Médio,Número de Turmas da Educação de Jovens e Adultos (EJA) - Ensino Médio,,
+QT_TUR_ESP,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Especial,Número de Turmas da Educação Especial,,
+QT_TUR_ESP_CC,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Especial Inclusiva,Número de Turmas da Educação Especial em Classes Comuns,,
+QT_TUR_ESP_CE,Turma,Texto do dicionário difere: revisar,Número de Turmas de Educação Especial Exclusiva,Número de Turmas da Educação Especial em Classes Exclusivas,,
+QT_TUR_BAS_D,Turma,Descrição e categorias idênticas,Número de Turmas da Educação Básica - Turno Diurno,Número de Turmas da Educação Básica - Turno Diurno,,
+QT_TUR_BAS_N,Turma,Descrição e categorias idênticas,Número de Turmas da Educação Básica - Turno Noturno,Número de Turmas da Educação Básica - Turno Noturno,,
+QT_TUR_BAS_EAD,Turma,Descrição e categorias idênticas,Número de Turmas da Educação Básica - Turno não aplicável  para turmas semipresenciais ou de Educação a Distância (EAD),Número de Turmas da Educação Básica - Turno não aplicável  para turmas semipresenciais ou de Educação a Distância (EAD),,
+QT_TUR_INF_INT,Turma,Descrição e categorias idênticas,Número de Turmas da Educação Infantil - Tempo Integral,Número de Turmas da Educação Infantil - Tempo Integral,,
+QT_TUR_INF_CRE_INT,Turma,Descrição e categorias idênticas,Número de Turmas da Educação Infantil - Creche - Tempo Integral,Número de Turmas da Educação Infantil - Creche - Tempo Integral,,
+QT_TUR_INF_PRE_INT,Turma,Descrição e categorias idênticas,Número de Turmas da Educação Infantil - Pré-Escola - Tempo Integral,Número de Turmas da Educação Infantil - Pré-Escola - Tempo Integral,,
+QT_TUR_FUND_INT,Turma,Descrição e categorias idênticas,Número de Turmas do Ensino Fundamental - Tempo Integral,Número de Turmas do Ensino Fundamental - Tempo Integral,,
+QT_TUR_FUND_AI_INT,Turma,Descrição e categorias idênticas,Número de Turmas do Ensino Fundamental - Anos Iniciais - Tempo Integral,Número de Turmas do Ensino Fundamental - Anos Iniciais - Tempo Integral,,
+QT_TUR_FUND_AF_INT,Turma,Descrição e categorias idênticas,Número de Turmas do Ensino Fundamental - Anos Finais - Tempo Integral,Número de Turmas do Ensino Fundamental - Anos Finais - Tempo Integral,,
+QT_TUR_MED_INT,Turma,Descrição e categorias idênticas,Número de Turmas do Ensino Médio - Tempo Integral,Número de Turmas do Ensino Médio - Tempo Integral,,

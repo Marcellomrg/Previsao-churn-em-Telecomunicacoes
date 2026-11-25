@@ -1,66 +1,45 @@
-# Previsão do churn em telecomunicações
-Desenvolver um modelo de machine learning que seja capaz de prever se uma cliente pode se tornar churn 
+# Estimação da nota geral do ENEM por escola
 
-## Experimento XCL-Churn
+Projeto de TCC que estima, para cada escola, a **mediana das médias gerais individuais do ENEM 2025**. A média individual atribui o mesmo peso às quatro provas objetivas e à redação. A base reúne 8.592 escolas com pelo menos 50 participantes com as cinco notas válidas.
 
-O script `src/train_nature.py` gera métricas e gráficos comparativos por modelo.
-O código permanece em células `# %%`, com a função de busca e a Pipeline original.
-Os modelos comparados são XGBoost, CatBoost, LightGBM, XCL-Churn, Decision Tree,
-Ridge, SGD, Random Forest, Stacking e Blending.
+## Dados e integração
 
-No ambiente `tcc_churn`, execute as células ou, na raiz do projeto:
+O projeto usa os resultados do ENEM, os microdados do Censo Escolar e os indicadores educacionais do Inep de 2025. A integração usa código da escola e ano. As junções preservam as escolas elegíveis do ENEM. A tabela `final` tem uma linha por escola, com cadastro, proporções da prova, características escolares e indicadores.
 
-```powershell
-python src/train_nature.py
-```
+Para reconstruir o SQLite, coloque as fontes oficiais nestes caminhos:
 
-O padrão de registro segue o projeto DataScience-Loyalty-predict: `start_run`,
-`autolog`, `log_metrics`, `plt.savefig` e `log_artifact`. Uma execução `XCL-Churn`
-contém a Pipeline registrada pelo autolog, as métricas identificadas por modelo,
-os gráficos e os demais modelos registrados com `mlflow.sklearn.log_model`.
-Não são gerados arquivos `.pkl` avulsos.
-O autolog pode incluir diagnósticos automáticos além das quatro métricas da
-tabela comparativa. Não é feito novo treinamento para salvar os modelos.
-O banco `mlflow_nature.db` é separado do `mlflow.db` já existente.
-Para abrir a interface, execute na raiz do projeto:
+| Fonte | Caminho local |
+|---|---|
+| Resultados ENEM 2025 | `data/enem/microdados/2025/RESULTADOS_2025.csv` |
+| Censo Escolar | `data/censo_escolar/2025/dados/`, com `Tabela_Escola_2025_V2.csv`, `Tabela_Matricula_2025_V2.csv`, `Tabela_Docente_2025_V2.csv` e `Tabela_Turma_2025_V2.csv` |
+| Indicadores por escola | `data/indicadores_educacionais/2025/`, com `AFD_2025_ESCOLAS.zip`, `ATU_2025_ESCOLAS.zip` e `TDI_2025_ESCOLAS.zip` |
+
+## Execução
+
+Use Python 3.12 em um ambiente virtual. Execute a partir da raiz ou use as células `# %%` dos scripts de análise e treino no VS Code.
 
 ```powershell
-mlflow ui --backend-store-uri sqlite:///mlflow_nature.db
+python -m pip install -r requirements-enem.txt
+python src/montar_banco_escolar_2025.py
+python src/Explore_final_2025.py
+python src/train_regressores_escolas_2025.py
 ```
 
-Abra http://127.0.0.1:5000 e procure o experimento `XCL-Churn`.
-Os arquivos dos modelos ficam no armazenamento local de artefatos do MLflow;
-é necessário preservar os artefatos e o banco, não somente o arquivo `.db`.
+A montagem grava `data/enem_censo_escolar_2025.db`. O treinamento usa 70% das escolas para ajuste e 30% para teste, com semente 42. A busca usa três dobras no treino e escolhe pelo MAE médio. O preparo aplica o corte de mais de 50% de ausência na parcela de ajuste, imputa por tipo e codifica cada variável categórica em uma coluna com `TargetEncoder`. O experimento de sensibilidade a outliers está em `src/avaliar_outliers_escolas_2025.py`.
 
-### Reutilização dos modelos
+| Modelo | MAE no teste (pontos) | RMSE no teste (pontos) | R² |
+|---|---:|---:|---:|
+| Regressão Linear | 18,30 | 23,98 | 0,859 |
+| Random Forest | 15,83 | 20,68 | 0,895 |
+| XGBoost | 15,62 | 20,34 | 0,898 |
 
-Os gráficos e tabelas ficam em `artifacts/nature/<id da execução>/` e no MLflow.
-Para carregar um modelo, copie seu URI na interface do MLflow:
+A avaliação é retrospectiva entre escolas de 2025 e inclui situações de redação da mesma edição. Uma avaliação de previsão para outra edição requer validação temporal.
 
-```python
-modelo = mlflow.sklearn.load_model("models:/<id do modelo no MLflow>")
-previsoes = modelo.predict(X_test)
-```
+## Resultados e modelo
 
-O modelo recebe as colunas já tratadas, na mesma ordem de `X_test`, não o CSV
-bruto. Os modelos registrados não incluem o pré-processamento: para novos dados,
-é necessário preservar encoder, imputer, escaladores e a ordem das features.
-Use somente `transform`, sem aplicar SMOTE ou refazer `fit` na previsão.
-Artefatos de execuções anteriores foram preservados.
+- [Apresentação da defesa](output/apresentacoes/TCC_ENEM_2025_Defesa_Metodologia.pptx)
+- [Métricas completas](output/regressao_escolas_final_2025/metricas.csv)
+- [Inventário de variáveis](output/regressao_escolas_final_2025/inventario_features_defesa.csv)
+- [Deploy com MLflow](output/regressao_escolas_final_2025/deploy.md)
 
-### Limites da replicação
-
-Referência: https://www.nature.com/articles/s41598-025-34624-w
-
-- Mantida a ordem de pré-processamento antes do split, escolhida para reproduzir
-  o texto. Isso não constitui uma avaliação livre de vazamento.
-- A busca usa um candidato por modelo com as configurações finais publicadas e
-  cinco folds. Isso não reconstrói a busca original, cujas grades não foram
-  publicadas. `scoring='roc_auc'` e 100 árvores no LightGBM são escolhas locais.
-- Os pesos `[3, 2, 3]` seguem a ablação; outra seção menciona pesos iguais.
-- As métricas de treino usam `X_train` após SMOTE, incluindo amostras sintéticas;
-  o teste não é balanceado.
-- Configurações dos comparadores, meta-modelo, holdout do blending e amostras
-  de SHAP/LIME são escolhas locais onde faltam detalhes publicados.
-- A comparação de pesos não escolhe o modelo pelo teste. Tempos de execução
-  não são medidos. Não há garantia de resultados idênticos aos do artigo.
+O treino grava o registro MLflow em `data/mlflow_regressao_escolar.db`. Os dados brutos, os bancos locais, os ambientes virtuais e os binários dos modelos são gerados ou obtidos localmente.
